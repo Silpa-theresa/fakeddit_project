@@ -11,7 +11,6 @@ Detects fake Reddit posts (Fakeddit, 2-way labels: 0 = fake, 1 = real) by combin
 | `app.py` | Streamlit web app |
 | `models/` | Trained best model (`best_model.pt`), `config.json`, `feature_stats.npz` |
 | `outputs/` | Result tables, plots and per-post explanations produced by the notebook |
-| `data/` | The 6,000-post train/val and 1,500-post test subsets (ids, titles, image URLs, labels) |
 | `screenshots/` | App screenshots |
 | `requirements.txt` | Dependencies for running the app locally |
 

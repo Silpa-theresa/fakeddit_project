@@ -1,0 +1,14 @@
+{
+  "model_name": "early_fusion",
+  "model_kwargs": {
+    "hidden": 512,
+    "dropout": 0.4
+  },
+  "seed": 2,
+  "max_len": 64,
+  "text_pool": "mean",
+  "img_size": 224,
+  "test_accuracy": 0.7906666666666666,
+  "test_macro_f1": 0.7906666666666666,
+  "mean_test_macro_f1_5_seeds": 0.7922423800143157
+}

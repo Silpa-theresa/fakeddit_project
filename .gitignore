@@ -1,0 +1,10 @@
+# Python environment and cache
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Big data - too large for GitHub
+data/
+images/
+features/
+*.zip

@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers>=4.30
+streamlit>=1.30
+numpy
+pillow
+requests
